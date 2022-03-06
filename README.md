@@ -25,7 +25,7 @@ Can download the perl script and just run it.
 
 Example: 
 
-./gen_kmz.pl --kmz --name touchal --zoom 15 --west 51.26 --east 51.51 --north 35.94 --south 25.81
+./gen_kmz.pl --kmz --name touchal --zoom 15 --west 51.26 --east 51.51 --north 35.94 --south 35.81
 
 
 ## Dependencies
