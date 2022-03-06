@@ -30,6 +30,8 @@ Example:
 
 ## Dependencies
 
+Access to openstreetmaps (https://www.openstreetmap.org/)
+
 curl (https://curl.se/)
 
 imageMagic (https://linux.die.net/man/1/imagemagick)
